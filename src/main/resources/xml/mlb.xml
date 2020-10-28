@@ -1,0 +1,35 @@
+<Division>
+	<Name>National League East</Name>	
+	<Teams>
+		<Team>
+			<Name>Washington Nationals</Name>
+			<Location>Washington DC</Location>
+			<Ballpark>Nationals Park</Ballpark>
+			<Championships>1</Championships>
+		</Team>
+		<Team>
+			<Name>Atlanta Braves</Name>
+			<Location>Atlanta GA</Location>
+			<Ballpark>Truist Park</Ballpark>
+			<Championships>3</Championships>
+		</Team>
+		<Team>
+			<Name>Miami Marlins</Name>
+			<Location>Miami FL</Location>
+			<Ballpark>Marlins Park</Ballpark>
+			<Championships>2</Championships>
+		</Team>
+		<Team>
+			<Name>New York Mets</Name>
+			<Location>New York NY</Location>
+			<Ballpark>Citi Field</Ballpark>
+			<Championships>2</Championships>
+		</Team>
+		<Team>
+			<Name>Philadelphia Phillies</Name>
+			<Location>Philadelphia PA</Location>
+			<Ballpark>Citizens Bank Field</Ballpark>
+			<Championships>2</Championships>
+		</Team>					
+	</Teams>
+</Division>
